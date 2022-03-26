@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li::before {
+  content: "⦿";
+  margin-right: 10px;
+}

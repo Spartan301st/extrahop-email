@@ -1,0 +1,11 @@
+.footer-container {
+  text-align: center;
+  padding: 1em 7em;
+  font-size: 0.8em;
+  color: #b8b8b8;
+}
+
+.unsubscribe {
+  text-decoration: none;
+  color: #29a3a0;
+}
